@@ -1,6 +1,6 @@
 # MCT_JS
 
-https://sudarshan34.github.io/MCT_JS/
+https://sudarshan34.github.io/Ecommerce_js/
 
 Hello Team,
 
